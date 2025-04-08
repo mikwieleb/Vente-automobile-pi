@@ -1,0 +1,7 @@
+Vente-automobile-pi/
+├── public/
+│   └── .well-known/
+│       └── pi-app.json
+├── pages/
+├── README.md
+├── ...
